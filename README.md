@@ -7,7 +7,7 @@
 ### Apps
 - [:world_map: SR.me](https://simrail.me/)
 - [:bullettrain_front: SR.app](https://www.simrail.app/)
-- ......
+- .
 - [:ledger: VirTracks](https://virtracks.stelltis.ch/)
 - [:page_with_curl: SR.express](https://simrail.express/en)
 
