@@ -5,8 +5,8 @@
 ## SimRail
 
 ### Apps
-- [:world_map: SR.me](https://simrail.me/)
 - [:bullettrain_front: SR.app](https://www.simrail.app/)
+- [:world_map: SR.me](https://simrail.me/)
 - [SR.de](https://simrail-edr.de/)
 - .
 - [:ledger: VirTracks](https://virtracks.stelltis.ch/)
