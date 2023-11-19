@@ -1,4 +1,4 @@
-# Steam-Browser-Bookmarks
+# zSteam-Bookmarks
 
 ## [Google](https://www.google.com/)
 
