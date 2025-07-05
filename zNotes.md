@@ -13,4 +13,3 @@
 - `%systemroot%\system32\imageres.dll`
 - `%systemroot%\system32\ddores.dll` - devices
 - `%systemroot%\system32\pifmgr.dll` - retro
-- 
