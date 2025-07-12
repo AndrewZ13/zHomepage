@@ -1,5 +1,8 @@
 # Windows
 ## Commands
+### Software
+- `msix`/`msixbundle`: `Add-AppPackage -Path "..."`
+
 ### Shutdown
 - `shutdown -s -t [Seconds]`
 - `shutdown -a` to abort
