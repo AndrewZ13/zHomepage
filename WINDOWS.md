@@ -1,7 +1,11 @@
 # Windows
 ## Commands
 ### Software
-- `msix`/`msixbundle`: `Add-AppPackage -Path "..."`
+Install `msix`/`msixbundle`/`appx` files:
+- `Add-AppxPackage -Path "..."`
+#### Dependencies
+- [Microsoft.VCLibs.x64.14.00.Desktop.appx](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
+- [Microsoft.VCLibs.x86.14.00.Desktop.appx](https://aka.ms/Microsoft.VCLibs.x86.14.00.Desktop.appx)
 
 ### Shutdown
 - `shutdown -s -t [Seconds]`
