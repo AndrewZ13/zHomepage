@@ -1,5 +1,6 @@
-## *zBookmarks*
-- ### [Google](https://www.google.com/)
+## [zHomepage]
+## General
+- [Google](https://www.google.com/)
 ## SimRail
 ### Apps
 - :computer: [SR.app](https://www.simrail.app/)
