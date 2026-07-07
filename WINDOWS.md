@@ -1,5 +1,7 @@
 # Windows
-## Commands
+### PS
+1. `Set-ExecutionPolicy RemoteSigned`
+2. `Set-ExecutionPolicy Restricted`
 ### Software
 Install `msix`/`msixbundle`/`appx` files:
 - `Add-AppxPackage -Path "..."`
