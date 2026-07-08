@@ -4,9 +4,9 @@
 2. `Set-ExecutionPolicy Restricted`
 
 ### GP
-1. Export: `LGPO.exe /b "X:\GP"`
-2. Import: `LGPO.exe /g "X:\GP\{...}"`
-3. Reload: `gpupdate.exe /force`
+0. Export: `LGPO.exe /b "X:\GP"`
+1. Import: `LGPO.exe /g "X:\GP\{...}"`
+2. Reload: `gpupdate.exe /force`
 
 ### Software
 Install `msix`/`msixbundle`/`appx` files:
