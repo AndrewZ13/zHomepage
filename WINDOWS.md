@@ -2,9 +2,16 @@
 ### PS
 1. `Set-ExecutionPolicy RemoteSigned`
 2. `Set-ExecutionPolicy Restricted`
+
+### GP
+1. Export: `LGPO.exe /b "X:\GP"`
+2. Import: `LGPO.exe /g "X:\GP\{...}"`
+3. Reload: `gpupdate.exe /force`
+
 ### Software
 Install `msix`/`msixbundle`/`appx` files:
 - `Add-AppxPackage -Path "..."`
+
 #### Dependencies
 - [Microsoft.VCLibs.x64.14.00.Desktop.appx](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
 - [Microsoft.VCLibs.x86.14.00.Desktop.appx](https://aka.ms/Microsoft.VCLibs.x86.14.00.Desktop.appx)
