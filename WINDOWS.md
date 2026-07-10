@@ -1,4 +1,5 @@
 # Windows
+## Commands
 ### PS
 1. `Set-ExecutionPolicy RemoteSigned`
 2. `Set-ExecutionPolicy Restricted`
@@ -23,6 +24,10 @@ Install `msix`/`msixbundle`/`appx` files:
 ### Maintenance
 - `DISM.exe /Online /Cleanup-image /Restorehealth`
 - `sfc /scannow`
+
+### Restore Classic Context Menu
+- Do: `reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
+- Undo: `reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f`
 
 ## Icons
 - `%systemroot%\system32\shell32.dll` - default
