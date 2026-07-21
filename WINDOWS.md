@@ -34,3 +34,6 @@ Install `msix`/`msixbundle`/`appx` files:
 - `%systemroot%\system32\imageres.dll`
 - `%systemroot%\system32\ddores.dll` - devices
 - `%systemroot%\system32\pifmgr.dll` - retro
+
+## Settings
+- Settings > System > About > Advanced system settings > Hardware > Device Installation Settings
